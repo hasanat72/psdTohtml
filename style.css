@@ -1,0 +1,89 @@
+.bg-img{
+	
+  	background-image: url("image/home.png");
+	min-height: 600px;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	position: all;
+  	width: 100%;
+  	
+  	
+}
+
+.body{
+	background-color: #FEFB9B;
+}
+.header{
+	background-image: url("image/header.png");
+	background-position: center;
+	min-height: 100px;
+}
+.voyager{
+	
+	background-repeat: no-repeat;
+	margin-left: 20px;
+
+}
+.img{
+	margin-top: 35px;
+	background-repeat: no-repeat;
+}
+.right-panel{
+	float: left;
+	width: 40%;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5;
+    overflow: hidden;
+    
+    width: 80%;
+    align-items: center;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+li a:hover {
+    background-color: gray;
+}
+.caption{
+
+	font-size: 50px;
+	position: center;
+	display: table;
+  	margin: 0 auto;
+  	font-family: 'Pacifico', cursive;
+  	color: #5D6D7E;
+
+}
+
+#subscribe{
+	height: 40px;
+	width: 100%;
+	clear: both;
+	border:1px solid #FEFB9B;
+	background-color: #E5E7E9;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+
+}
+.table{
+	margin-left: 40%;
+	margin-top: 5px;
+}
